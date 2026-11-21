@@ -43,3 +43,6 @@ paddleocr
 
 opencv-python
 pillow
+# Shared JWT/Redis trust contract used by the Java services.
+PyJWT>=2.10.1,<3
+redis>=5,<8

@@ -54,6 +54,7 @@ __pycache__/
 # Model artifacts (example paths)
 routes/ckd_tabtransformer_artifacts_7/
 routes/ckd_tabtransformer_artifacts_7/**
+routes/tabtransformernewmodel
 
 # Large model files
 *.pth
